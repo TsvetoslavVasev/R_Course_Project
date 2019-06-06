@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558026278204.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3475824494",
+    "id" : "38263F89",
+    "lastKnownWriteTime" : 1558036842,
+    "last_content_update" : 1558036842,
+    "path" : "~/Developer/R_Project_71754/71754_Project.R",
+    "project_path" : "71754_Project.R",
+    "properties" : {
+        "cursorPosition" : "142,0",
+        "scrollLine" : "136",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

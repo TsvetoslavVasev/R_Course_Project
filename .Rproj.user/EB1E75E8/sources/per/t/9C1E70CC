@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1558026470821.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9C1E70CC",
+    "lastKnownWriteTime" : 3982932781796902205,
+    "last_content_update" : 1558026470821,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "EC7C8F7E",
+        "caption" : "appsReview",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=appsReview&cache_key=EC7C8F7E",
+        "displayedObservations" : 64295,
+        "environment" : "",
+        "expression" : "appsReview",
+        "object" : "appsReview",
+        "preview" : 0,
+        "totalObservations" : 64295,
+        "variables" : 5
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
